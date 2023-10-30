@@ -16,6 +16,14 @@ To use this webpage, you can click the links in the navigation bar to redirect y
 
 The starter code was provided by my bootcamp program. I worked on this project with my study group peers, Chase Seeberger and Will Schickler.
 
+## Link
+
+https://shhutc18.github.io/Module-1-Challenge/
+
+## Screenshot
+
+<img src="./assets/images/shhutc18.DeployedWebpage.jpg">
+
 ## License
 
 Please refer to the LICENSE in the repository.
