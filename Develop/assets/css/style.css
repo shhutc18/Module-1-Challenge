@@ -1,3 +1,4 @@
+/* CSS has been organized and consolidated to follow semantic structure */
 /* Universal Selectors */
 
 * {
@@ -6,7 +7,7 @@
     margin: 0;
 }
 
-/* Element Selector */
+/* Element Selectors */
 
 body {
     background-color: #d9dcd6;
@@ -63,7 +64,7 @@ aside {
     background-color: #0072bb;
 }
 
-/* Class Selector */
+/* Class Selectors */
 
 .contentArticle {
     margin-bottom: 20px;
@@ -124,7 +125,7 @@ aside {
     font-size: 20px;
 }
 
-/* ID Selector */
+/* ID Selectors */
 
 #content {
     width: 75%;
